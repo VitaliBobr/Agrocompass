@@ -25,7 +25,7 @@
 
 ```bash
 # Клонировать или открыть проект
-cd Agrokilar
+cd Agrocompass
 
 # Зависимости
 flutter pub get
